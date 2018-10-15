@@ -1,2 +1,2 @@
-FROM quay.io/calico/cni:v3.1.3
-MAINTAINER xxqin <xxqin@iflytek.com>
+FROM gcr.io/google_containers/pause-amd64:3.1
+MAINTAINER mritd <mritd@mritd.me>
